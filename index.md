@@ -1,6 +1,6 @@
-## Tagline 
 ```
 Milwaukee based Full-Stack Developer
+//socials
 ```
 
 ### Fun Facts
@@ -16,12 +16,14 @@ Milwaukee based Full-Stack Developer
 
 ### Resume
 ```markdown
-###EDUCATION  
-1. Milwaukee Area Technical College | Web and Software Development | May 2018
-    - MATC gave me an immersive program focused on the fundamentals of development while challenging me every step of the way.
+**EDUCATION**  
+1. _Milwaukee Area Technical College_ | Web and Software Development | May 2018
+    - MATC gave me an immersive program focused on the fundamentals of development 
+    while challenging me every step of the way.
 
-2. Milwaukee Area Technical College | Photography | May 2010
-3. 
+2. _Milwaukee Area Technical College_ | Photography | May 2010
+```
+
 ### Projects
 ```markdown
 Syntax highlighted code block
